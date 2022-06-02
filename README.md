@@ -1,4 +1,4 @@
-# marslab
+# introduction to the _marslab_ ecosystem
 
 _marslab_ is an ecosystem of analysis software for remote sensing data, with a special emphasis on multispectral observations of Mars. 
 It includes both "applications" (discrete user-facing programs designed to support specific workflows) and "infrastructure" 
