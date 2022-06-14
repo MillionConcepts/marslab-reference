@@ -1,5 +1,7 @@
 # introduction to the _marslab_ ecosystem
 
+[![DOI](https://zenodo.org/badge/498892781.svg)](https://zenodo.org/badge/latestdoi/498892781)
+
 _marslab_ is an ecosystem of analysis software for remote sensing data, with a special emphasis on multispectral observations of Mars. 
 It includes both "applications" (discrete user-facing programs designed to support specific workflows) and "infrastructure" 
 (support code ranging from language frameworks to format definitions to reference implementations of spectral parameter calculations). 
