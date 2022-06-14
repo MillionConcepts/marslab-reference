@@ -29,7 +29,7 @@ MSL ChemCam.
 * `asdf`: this application provides **a**rchive **s**pectral **d**ata **f**unctions that allow users to **a**rchive **s**pectral 
 **d**ata **f**iles by keysmashing **a**-**s**-**d**-**f**. It streamlines last-mile processing for observational data by 
 converting them into common interchange formats, concatenating them with metadata from many sources, calculating derived parameters, 
-rendering a host of visualizations, and sending all of these products to shared data repositories,  It is in tactical use on Mars 
+rendering a host of visualizations, and sending all of these products to shared data repositories. It is in tactical use on Mars 
 2020 Mastcam-Z and also used for analysis on MSL Mastcam. We are unfortunately unable to make an implementation of `asdf` publicly 
 available at this time. Both existing implementations of `asdf` contain many dataset-, instrument-, and environment-specific components, 
 and, as such, are covered by mission nondisclosure rules.
