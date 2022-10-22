@@ -23,7 +23,7 @@ on multispectral observations, treating entire clusters of related images as coh
 * [VISOR](https://github.com/MillionConcepts/wwu_spec): the **V**isual-**I**nfrared **S**pectral br**O**wse**R** is a search and 
 visualization engine for reflectance spectra, especially intended to help researchers find laboratory spectra that correspond to 
 remote sensing observations. A live instance of VISOR is available for public access at https://www.westernreflectancelab.com/visor/.
-* [MultiDEx](https://github.com/MillionConcepts/wwu_spec): the **Multi**spectral **D**ata **Ex**plorer is a spectral data exploration 
+* [MultiDEx](https://github.com/millionconcepts/multidex): the **Multi**spectral **D**ata **Ex**plorer is a spectral data exploration 
 and plotting tool. It allows users to rapidly visualize arbitrary parameters of arbitrary subsets of large multispectral 
 data sets. It is relatively dataset / instrument-agnostic, leveraging tools from `marslab` to permit quick application to new 
 bodies of data. It is in active tactical use on Mars 2020 Mastcam-Z and Mars Science Laboratory Mastcam, and has beta support for 
